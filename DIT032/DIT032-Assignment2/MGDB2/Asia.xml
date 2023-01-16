@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<continent name="Asia">
+    <name>Asia</name>
+    <area>44579000</area>
+    <countries>
+        <country name="Russia">
+            <area>17075200</area>
+            <capital>Moskva</capital>
+            <population>143666931</population>
+            <GDP>2113000</GDP>
+            <languages>
+                <name>Russian</name>
+            </languages>
+        </country>
+        <country name="China">
+            <area>9596960</area>
+            <capital>Beijing</capital>
+            <population>1360720000</population>
+            <GDP>9330000</GDP>
+            <languages>
+                <name>Chinese</name>
+            </languages>
+        </country>
+        <country name="India">
+            <area>3287590</area>
+            <capital>Delhi</capital>
+            <population>1210854977</population>
+            <GDP>1670000</GDP>
+            <languages>
+                <name>Hindi</name>
+            </languages>
+        </country>
+        <country name="Kazakhstan">
+            <area>2717300</area>
+            <capital>Astana</capital>
+            <population>17165239</population>
+            <GDP>224900</GDP>
+        <languages>
+            <name>Kazakh</name>
+        </languages>
+        </country>
+        <country name="Saudi Arabia">
+            <area>1960582</area>
+            <capital>Riyadh</capital>
+            <population>27136977</population>
+            <GDP>718500</GDP>
+        <languages>
+            <name>Arabic</name>
+        </languages>
+        </country>
+    </countries>
+    <cities>
+        <city name="Shanghai">
+            <population>22315474</population>
+            <country>China</country>
+            <province>Shanghai</province>
+        </city>
+        <city name="Istanbul">
+            <population>13710512</population>
+            <country>Turkey</country>
+            <province>İstanbul</province>
+        </city>
+        <city name="Mumbai">
+            <population>12442373</population>
+            <country>India</country>
+            <province>Maharashtra</province>
+        </city>
+        <city name="Moskva">
+            <population>11979529</population>
+            <country>Russia</country>
+            <province>Moscow</province>
+        </city>
+        <city name="Beijing">
+            <population>11716620</population>
+            <country>China</country>
+            <province>Beijing</province>
+        </city>
+        <city name="Tianjin">
+            <population>11090314</population>
+            <country>China</country>
+            <province>Tianjin</province>
+        </city>
+        <city name="Guangzhou">
+            <population>11071424</population>
+            <country>China</country>
+            <province>Guangdong</province>
+        </city>
+        <city name="Delhi">
+            <population>11034555</population>
+            <country>India</country>
+            <province>Delhi</province>
+        </city>
+        <city name="Shenzhen">
+            <population>10358381</population>
+            <country>China</country>
+            <province>Guangdong</province>
+        </city>
+        <city name="Wuhan">
+            <population>9785388</population>
+            <country>China</country>
+            <province>Hubei</province>
+        </city>
+    </cities>
+</continent>

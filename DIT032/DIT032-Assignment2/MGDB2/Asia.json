@@ -1,0 +1,119 @@
+{
+"name": "Asia",
+"area": 44579000,
+"countries":[
+  {
+    "name": "Russia",
+    "area": 17075200,
+    "capital": "Moskva",
+    "population": 143666931,
+    "GDP": 2113000,
+    "languages": [
+      {"name": "Russian"}
+    ]
+  },
+  {
+    "name": "China",
+    "area": 9596960,
+    "capital": "Beijing",
+    "population": 1360720000,
+    "GDP": 9330000,
+    "languages": [
+      {"name": "Chinese"}
+    ]
+  },
+  {
+    "name": "India",
+    "area": 3287590,
+    "capital": "Delhi",
+    "population": 1210854977,
+    "GDP": 1670000,
+    "languages": [
+      {"name": "Hindi"}
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "area": 2717300,
+    "capital": "Astana",
+    "population": 17165239,
+    "GDP": 224900,
+    "languages": [
+      {"name": "Kazakh"}
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "area": 1960582,
+    "capital": "Riyadh",
+    "population": 27136977,
+    "GDP": 718500,
+    "languages": [
+      {"name": "Arabic"}
+    ]
+  }
+],
+
+"cities": [
+  {
+    "name": "Shanghai",
+    "population": 22315474,
+    "country": "China",
+    "province": "Shanghai"
+  },
+  {
+    "name": "Istanbul",
+    "population": 13710512,
+    "country": "Turkey",
+    "province": "İstanbul"
+  },
+  {
+    "name": "Mumbai",
+    "population": 12442373,
+    "country": "India",
+    "province": "Maharashtra"
+  },
+  {
+    "name": "Moskva",
+    "population": 11979529,
+    "country": "Russia",
+    "province": "Moscow"
+  },
+  {
+    "name": "Beijing",
+    "population": 11716620,
+    "country": "China",
+    "province": "Beijing"
+  },
+  {
+    "name": "Tianjin",
+    "population": 11090314,
+    "country": "China",
+    "province": "Tianjin"
+  },
+  {
+    "name": "Guangzhou",
+    "population": 11071424,
+    "country": "China",
+    "province": "Guangdong"
+  },
+  {
+    "name": "Delhi",
+    "population": 11034555,
+    "country": "India",
+    "province": "Delhi"
+  },
+  {
+    "name": "Shenzhen",
+    "population": 10358381,
+    "country": "China",
+    "province": "Guangdong"
+  },
+  {
+    "name": "Wuhan",
+    "population": 9785388,
+    "country": "China",
+    "province": "Hubei"
+  }
+]
+}

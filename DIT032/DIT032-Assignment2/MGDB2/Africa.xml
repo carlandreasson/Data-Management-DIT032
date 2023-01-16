@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<continent name="Africa">
+    <name>Africa</name>
+    <area>30221000</area>
+    <countries>
+        <country name="Algeria">
+            <area>2381740</area>
+            <capital>Algiers</capital>
+            <population>37062820</population>
+            <languages>
+                <name>Arabic</name>
+            </languages>
+            <religions>
+                <religion>"Christian"</religion>
+                <religion>"Jewish"</religion>
+                <religion>"Muslim"</religion>
+            </religions>
+        </country>
+        <country name="Zaire">
+            <area>2345410</area>
+            <capital>Kinshasa</capital>
+            <population>62191161</population>
+            <languages>
+                <name>French</name>
+            </languages>
+            <religions>
+                <religion>"Kimbanguist"</religion>
+                <religion>"Muslim"</religion>
+                <religion>"Protestant"</religion>
+                <religion>"Roman Catholic"</religion>
+            </religions>
+        </country>
+        <country name="Sudan">
+            <area>1861484</area>
+            <capital>Khartoum</capital>
+            <population>35652002</population>
+            <languages>
+                <name>Arabic</name>
+            </languages>
+            <religions>
+                <religion>"Christian"</religion>
+                <religion>"Muslim"</religion>
+            </religions>
+        </country>
+        <country name="Libya">
+            <area>1759540</area>
+            <capital>Tripoli</capital>
+            <population>6040612</population>
+            <languages>
+                <name>Arabic</name>
+            </languages>
+            <religions>
+                <religion>"Muslim"</religion>
+            </religions>
+        </country>
+        <country name="Chad">
+            <area>1284000</area>
+            <capital>N'Djamena</capital>
+            <population>11720781</population>
+            <languages>
+                <name>Arabic</name>
+            </languages>
+            <religions>
+                <religion>"Christian"</religion>
+                <religion>"Muslim"</religion>
+            </religions>
+        </country>
+    </countries>
+    <cities>
+        <city name="Al Qahirah">
+            <population>8471859</population>
+            <country>Egypt</country>
+            <province>Egypt</province>
+        </city>
+        <city name="Lagos">
+            <population>5195247</population>
+            <country>Nigeria</country>
+            <province>Lagos</province>
+        </city>
+        <city name="Kinshasa">
+            <population>4655313</population>
+            <country>Zaire</country>
+            <province>Kinshasa</province>
+        </city>
+        <city name="Johannesburg">
+            <population>4434827</population>
+            <country>South Africa</country>
+            <province>Gauteng</province>
+        </city>
+        <city name="Abidjan">
+            <population>4395243</population>
+            <country>Cote d'Ivoire</country>
+            <province>Lagunes</province>
+        </city>
+        <city name="Dar es Salaam">
+            <population>4364541</population>
+            <country>Tanzania</country>
+            <province>Dar es Salaam</province>
+        </city>
+        <city name="Al Iskandariyah">
+            <population>4123869</population>
+            <country>Egypt</country>
+            <province>Egypt</province>
+        </city>
+        <city name="Cape Town">
+            <population>3740026</population>
+            <country>South Africa</country>
+            <province>Western Cape</province>
+        </city>
+        <city name="eThekwini">
+            <population>3442361</population>
+            <country>South Africa</country>
+            <province>KwaZulu-Natal</province>
+        </city>
+        <city name="Ekurhuleni - Germiston">
+            <population>3178471</population>
+            <country>South Africa</country>
+            <province>Gauteng</province>
+        </city>
+    </cities>
+</continent>

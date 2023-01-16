@@ -1,0 +1,136 @@
+{
+"name": "Africa",
+"area": 30221000,
+"countries":[
+  {
+    "name": "Algeria",
+    "area": 2381740,
+    "capital": "Algiers",
+    "population": 37062820,
+    "languages": [
+      {"name": "Arabic"}
+    ],
+    "religions": [
+      {"name": "Christian"},
+      {"name": "Jewish"},
+      {"name": "Muslim"}
+    ]
+  },
+  {
+    "name": "Zaire",
+    "area": 2345410,
+    "capital": "Kinshasa",
+    "population": 62191161,
+    "languages": [
+      {"name": "French"}
+    ],
+    "religions": [
+      {"name": "Kimbanguist"},
+      {"name": "Muslim"},
+      {"name": "Protestant"},
+      {"name": "Roman Catholic"}
+    ]
+  },
+  {
+    "name": "Sudan",
+    "area": 1861484,
+    "capital": "Khartoum",
+    "population": 35652002,
+    "languages": [
+      {"name": "Arabic"}
+    ],
+    "religions": [
+      {"name": "Christian"},
+      {"name": "Muslim"}
+    ]
+  },
+  {
+    "name": "Libya",
+    "area": 1759540,
+    "capital": "Tripoli",
+    "population": 6040612,
+    "languages": [
+      {"name": "Arabic"}
+    ],
+    "religions": [
+      {"name": "Muslim"}
+    ]
+  },
+  {
+    "name": "Chad",
+    "area": 1284000,
+    "capital": "N'Djamena",
+    "population": 11720781,
+    "languages": [
+      {"name": "Arabic"}
+    ],
+    "religions": [
+      {"name": "Christian"},
+      {"name": "Muslim"}
+    ]
+  }
+],
+
+"cities": [
+  {
+    "name": "Al Qahirah",
+    "population": 8471859,
+    "country": "Egypt",
+    "province": "Egypt"
+  },
+  {
+    "name": "Lagos",
+    "population": 5195247,
+    "country": "Nigeria",
+    "province": "Lagos"
+  },
+  {
+    "name": "Kinshasa",
+    "population": 4655313,
+    "country": "Zaire",
+    "province": "Kinshasa"
+  },
+  {
+    "name": "Johannesburg",
+    "population": 4434827,
+    "country": "South Africa",
+    "province": "Gauteng"
+  },
+  {
+    "name": "Abidjan",
+    "population": 4395243,
+    "country": "Cote d'Ivoire",
+    "province": "Lagunes"
+  },
+  {
+    "name": "Dar es Salaam",
+    "population": 4364541,
+    "country": "Tanzania",
+    "province": "Dar es Salaam"
+  },
+  {
+    "name": "Al Iskandariyah",
+    "population": 4123869,
+    "country": "Egypt",
+    "province": "Egypt"
+  },
+  {
+    "name": "Cape Town",
+    "population": 3740026,
+    "country": "South Africa",
+    "province": "Western Cape"
+  },
+  {
+    "name": "eThekwini",
+    "population": 3442361,
+    "country": "South Africa",
+    "province": "KwaZulu-Natal"
+  },
+  {
+    "name": "Ekurhuleni - Germiston",
+    "population": 3178471,
+    "country": "South Africa",
+    "province": "Gauteng"
+  }
+]
+}

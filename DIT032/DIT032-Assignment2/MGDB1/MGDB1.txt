@@ -1,0 +1,7 @@
+MGDB 1.1
+A list with objects should have square brackets.
+Everything that isn’t an integer needs quotation marks, attributes as well.
+
+MGDB 1.2 
+We are storing the role of users in data center because users might have different roles depending on what data center they are working at.
+

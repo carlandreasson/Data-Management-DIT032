@@ -1,0 +1,27 @@
+//MGDB3.1 
+db.conferences.find({year: 2019}).count()
+
+//MGDB3.2 
+db.delegates.find({country: "Canada"},{name:1,_id:1})
+
+//MGDB3.3 
+db.delegates.distinct("country")
+
+//MGDB3.4 
+db.conferences.find({track.topic: "research"}).pretty()
+
+//MGDB3.5
+db.conferences.find({duration.begin:{$regex: "2019/04/01-2019/04/30"}}).pretty()
+
+//MGDB3.6 
+db.conferences.find({tracks.chairs.2:{$exists: true}}).pretty()
+
+//MGDB3.7 
+db.conferences.find({name:{$regex: "ICSE"}}).pretty()
+
+//MGDB3.8 
+db.delegates.update({name:"Joanne M. Atlee"},{$set: {name: "Joanne Atlee"}})
+
+//MGDB3.9 
+db.conferences.update({location.country:"India"},{$set: {location.city:""}})
+
